@@ -1,0 +1,122 @@
+PRIVACY POLICY FOR DUOPLAY
+
+Effective Date: October 17, 2026
+
+App Name: DuoPlay
+Developer: Vatsal Panchasara
+Contact Email: vatsalp.dev06@gmail.com
+Project Repository: https://github.com/VarnixaStudios/DuoPlay
+
+1. INTRODUCTION
+
+Welcome to DuoPlay — “Pass the phone. Play together.”
+
+DuoPlay is an offline multiplayer game collection that allows two to four players to enjoy a variety of games on a single device. We respect your privacy and are committed to protecting your information.
+
+This Privacy Policy explains how DuoPlay handles information when you use our mobile application.
+
+DuoPlay is designed to work offline without requiring an account, registration, or an internet connection for gameplay.
+
+2. INFORMATION WE COLLECT
+
+DuoPlay is designed not to collect, transmit, or store your personal information on our servers.
+
+We do not ask you to provide:
+- Your name or personal identity details.
+- Your email address or phone number.
+- Your physical address or precise location.
+- Account credentials or passwords.
+- Payment or financial information.
+
+DuoPlay does not include advertising or analytics as part of its intended design.
+
+3. DATA STORED ON YOUR DEVICE
+
+DuoPlay may store limited information locally on your device to provide its features, including:
+- Game scores and win counts.
+- Sound and vibration preferences.
+- Battery Saver preferences.
+- Other game settings necessary for the application to function.
+
+This information is stored locally on your device and is not intentionally transmitted to our servers.
+
+You can reset supported scores and settings using the options available within the application. Uninstalling the app may remove locally stored data, subject to your device's operating system and backup settings.
+
+4. INTERNET CONNECTIVITY
+
+DuoPlay is designed for offline gameplay. Its core game features do not require an internet connection.
+
+The application does not intentionally transmit your gameplay information to a developer-operated server.
+
+Your device may still use an internet connection for operating-system services, app installation or updates, or other services outside DuoPlay's direct control.
+
+5. ADVERTISING AND ANALYTICS
+
+DuoPlay is intended to operate without third-party advertising SDKs or analytics services.
+
+We do not intend to use the app to deliver personalized advertisements, track your activity across other applications, or build advertising profiles.
+
+If future versions introduce advertising, analytics, or other third-party services, this policy will be updated as appropriate before those changes take effect.
+
+6. THIRD-PARTY SERVICES
+
+DuoPlay is designed without a backend or third-party services that collect personal information for the developer.
+
+However, the app may rely on platform components, libraries, or plugins required for its operation. Those components may process information according to their own functionality and policies.
+
+We will review third-party components included in the released application and update this policy if their data practices require additional disclosure.
+
+7. PERMISSIONS
+
+DuoPlay is designed to request only permissions necessary for its features.
+
+For example, vibration functionality may use the device's vibration capability where supported. This capability does not require us to collect your personal information.
+
+DuoPlay does not intend to request access to your contacts, microphone, camera, or precise location for its core gameplay.
+
+The permissions requested by the released version of the application may vary depending on the final implementation and platform requirements.
+
+8. CHILDREN'S PRIVACY
+
+DuoPlay does not intentionally collect personal information from children.
+
+The app's intended audience and any applicable age restrictions will be determined in accordance with its actual content, features, and the requirements of the distribution platforms.
+
+If you believe that personal information has been collected through DuoPlay in a manner inconsistent with this policy, please contact us using the details below so that we can investigate.
+
+9. DATA SECURITY
+
+Because DuoPlay is designed to keep game settings and scores on your device without a developer-operated backend, we do not maintain a central database of users' gameplay information.
+
+You are responsible for maintaining the security of your device. No method of electronic storage or software operation can be guaranteed to be completely secure.
+
+10. DATA RETENTION AND DELETION
+
+DuoPlay's supported game settings and scores are intended to remain on your device until you reset them, the application removes them, or the data is otherwise removed by your device's operating system.
+
+You can use the in-app reset option where available to clear supported scores and settings.
+
+Because DuoPlay does not intentionally collect personal information on developer-operated servers, there is no developer-operated personal-data account or server database to delete under the app's intended design.
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy when DuoPlay's features, technical implementation, or applicable legal requirements change.
+
+Any revised policy will be published at the same publicly accessible privacy-policy URL, with an updated effective date.
+
+We encourage users to review this page periodically.
+
+12. CONTACT US
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+Developer: Vatsal Panchasara
+App: DuoPlay
+Email: vatsalp.dev06@gmail.com
+Project Repository: https://github.com/VarnixaStudios/DuoPlay
+
+We will review privacy-related enquiries and respond as appropriate.
+
+---
+
+This Privacy Policy is intended to describe DuoPlay's privacy practices accurately. The final published version must reflect the actual released application's behavior and all included SDKs and dependencies.
